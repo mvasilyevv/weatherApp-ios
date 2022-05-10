@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Weather_App-ios/Pods-Weather_App-ios-frameworks.sh
+${BUILT_PRODUCTS_DIR}/GIFImageView/GIFImageView.framework
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
